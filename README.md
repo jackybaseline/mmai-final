@@ -6,6 +6,7 @@ Ideas:
 1. PDF converter
 With image recognition, covert pdf to editable word or excel.
 "OCR" is not good enough.
+
 Data: A lot of data from open government is pdf.
 
 2. Image retrieval for "出清台大"
